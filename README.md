@@ -9,3 +9,5 @@ Setting up:
 5) By default, messages are sent as TRIGGERs, like /cue/1/start but you can also use the note's velocity as a parameter for messages that accept parameters, such as /cue/x/opacity/+ 10. If you wish to do so, toggle the menu to PARAMETER. The velocity value will be immediately appended to your message.
 
 This device is a simplified version of the M4L devices in the Ableton Connection Kit (https://github.com/Ableton/m4l-connaection-kit/tree/main).
+
+<img width="500" height="191" alt="screenshot" src="https://github.com/user-attachments/assets/5c61897e-d7c9-4e4e-9c82-26cde80cef34" />
